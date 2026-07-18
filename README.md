@@ -4,13 +4,7 @@ EmotionSense AI is a Machine Learning web application that predicts human emotio
 
 ## 🚀 Demo
 
-*Add your Streamlit deployment link here after deployment.*
-
-Example:
-
-`https://your-app-name.streamlit.app`
-
----
+https://emotion-app-349faj2ofmjwvvowximwna.streamlit.app/
 
 ## 📌 Features
 
